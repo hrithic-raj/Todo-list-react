@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Todo-list-react.git/static/css/main.812ef367.css",
+    "main.js": "/Todo-list-react.git/static/js/main.0d5bc009.js",
+    "static/media/bg.jpg": "/Todo-list-react.git/static/media/bg.7120c30780509dd0ea03.jpg",
+    "index.html": "/Todo-list-react.git/index.html",
+    "main.812ef367.css.map": "/Todo-list-react.git/static/css/main.812ef367.css.map",
+    "main.0d5bc009.js.map": "/Todo-list-react.git/static/js/main.0d5bc009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.812ef367.css",
+    "static/js/main.0d5bc009.js"
+  ]
+}
